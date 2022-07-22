@@ -1,7 +1,7 @@
 # NFL-Correlations
 Comparing NFL Season wins to future wins with Predictives
 
-***R File contains cool statistics with some neat plots. Jupyter Notebook contains adequate summary***
+***R File contains cool statistics with some neat plots. Jupyter Notebook contains extra summary***
 
 A common metric to use when predicting sporting season outcomes is analysis of the Pythaogrean Expectation. 
 
